@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Landscape version="1" updated="2020-03-06T18:46:53" origin="" generator="RSLSMT">
+	<Includes>
+		<Include url="http://gui.ucc.uwm.edu/sapgui/SAPUILandscape.xml" description="" name="gui.ucc.uwm.edu" index="3"/>
+		<Include url="http://cloud.ucc.ovgu.de/gui/U1NZ001.xml" description="" name="cloud.ucc.ovgu.de" index="2"/>
+		<Include url="https://raw.githubusercontent.com/babuilyas/SAPfever-Workspace/master/SAPUILandscapeGlobal.XML" description="" name="SAPfever" index="1"/>
+	</Includes>
+</Landscape>
